@@ -1,3 +1,10 @@
+class Node:
+    def __init__(self,x):
+        self.data=x
+        self.left=None
+        self.right=None
+        self.height=1
+
 class Solution:
     def getHeight(self, root):
         if root == None:
