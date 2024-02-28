@@ -30,5 +30,5 @@ Complete the function `nthRowOfPascalTriangle()` which takes n as input paramete
 - **Expected Time Complexity:** O(N^2)
 - **Expected Auxiliary Space:** O(N^2)
 
-**Constraints:**  
+**Constraints:** 
 1 ≤ N ≤ 10^3
