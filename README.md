@@ -8,7 +8,7 @@ This repository contains my solutions to the daily coding challenges from Geekfo
 
 During this challenge, I completed coding exercises and problems provided by GeekforGeeks on a daily basis. The solutions are written in Python programming language.
 
-## Structure 📁
+## Repository Structure 📁
 
 The repository is organized into folders for each day of the challenge. Each folder contains:
 
@@ -40,6 +40,6 @@ Special thanks to GeekforGeeks for providing the daily coding challenges and hel
 
 ## Connect with Me 📫
 
-If you have any questions, suggestions, or just want to connect, feel free to reach out to me on [LinkedIn](#) or any other Platforms.
+If you have any questions, suggestions, or just want to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chandanthota75/) or any other Platforms.
 
 Happy coding! 🚀
