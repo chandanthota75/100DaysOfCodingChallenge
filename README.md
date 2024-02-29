@@ -14,17 +14,411 @@ The repository is organized into folders for each day of the challenge. Each fol
 
 - A Markdown file (`DayX Question.md`) with the problem statement for the respective day.
 - An Algorithm description file (`DayX Algorithm.md`) providing an overview of the approach used to solve the problem.
-- Python files (`DayX Python Solution.py`) containing the solutions to the problems.
+- Python files (`DayX Solution.py`) containing the solutions to the problems.
 
 ## Daily Progress 📅
 
-- [Day 1: Symmetric Tree](Day1/)
-  - Check whether a Binary Tree is symmetric.
-- Day 2: [To be updated]
-  - [Description of the problem for Day 2]
-- Day 3: [To be updated]
-  - [Description of the problem for Day 3]
-- ...
+- [Day 1: Symmetric Tree](Day1/) - Nov 22nd, 2023
+  - [Day 1 Question](Day1/Day1%20Question.md)
+  - [Day 1 Algorithm](Day1/Day1%20Algorithm.md)
+  - [Day 1 Solution](Day1/Day1%20Python%20Solution.py)
+- [Day 2: To be updated](Day2/) - Nov 23rd, 2023
+  - [Day 2 Question](Day2/Day2%20Question.md)
+  - [Day 2 Algorithm](Day2/Day2%20Algorithm.md)
+  - [Day 2 Solution](Day2/Day2%20Python%20Solution.py)
+- [Day 3: To be updated](Day3/) - Nov 24th, 2023
+  - [Day 3 Question](Day3/Day3%20Question.md)
+  - [Day 3 Algorithm](Day3/Day3%20Algorithm.md)
+  - [Day 3 Solution](Day3/Day3%20Python%20Solution.py)
+- [Day 4: To be updated](Day4/) - Nov 25th, 2023
+  - [Day 4 Question](Day4/Day4%20Question.md)
+  - [Day 4 Algorithm](Day4/Day4%20Algorithm.md)
+  - [Day 4 Solution](Day4/Day4%20Python%20Solution.py)
+- [Day 5: To be updated](Day5/) - Nov 26th, 2023
+  - [Day 5 Question](Day5/Day5%20Question.md)
+  - [Day 5 Algorithm](Day5/Day5%20Algorithm.md)
+  - [Day 5 Solution](Day5/Day5%20Python%20Solution.py)
+- [Day 6: To be updated](Day6/) - Nov 27th, 2023
+  - [Day 6 Question](Day6/Day6%20Question.md)
+  - [Day 6 Algorithm](Day6/Day6%20Algorithm.md)
+  - [Day 6 Solution](Day6/Day6%20Python%20Solution.py)
+- [Day 7: To be updated](Day7/) - Nov 28th, 2023
+  - [Day 7 Question](Day7/Day7%20Question.md)
+  - [Day 7 Algorithm](Day7/Day7%20Algorithm.md)
+  - [Day 7 Solution](Day7/Day7%20Python%20Solution.py)
+- [Day 8: To be updated](Day8/) - Nov 29th, 2023
+  - [Day 8 Question](Day8/Day8%20Question.md)
+  - [Day 8 Algorithm](Day8/Day8%20Algorithm.md)
+  - [Day 8 Solution](Day8/Day8%20Python%20Solution.py)
+- [Day 9: To be updated](Day9/) - Nov 30th, 2023
+  - [Day 9 Question](Day9/Day9%20Question.md)
+  - [Day 9 Algorithm](Day9/Day9%20Algorithm.md)
+  - [Day 9 Solution](Day9/Day9%20Python%20Solution.py)
+- [Day 10: To be updated](Day10/) - Dec 1st, 2023
+  - [Day 10 Question](Day10/Day10%20Question.md)
+  - [Day 10 Algorithm](Day10/Day10%20Algorithm.md)
+  - [Day 10 Solution](Day10/Day10%20Python%20Solution.py)
+- [Day 11: To be updated](Day11/) - Dec 2nd, 2023
+  - [Day 11 Question](Day11/Day11%20Question.md)
+  - [Day 11 Algorithm](Day11/Day11%20Algorithm.md)
+  - [Day 11 Solution](Day11/Day11%20Python%20Solution.py)
+- [Day 12: To be updated](Day12/) - Dec 3rd, 2023
+  - [Day 12 Question](Day12/Day12%20Question.md)
+  - [Day 12 Algorithm](Day12/Day12%20Algorithm.md)
+  - [Day 12 Solution](Day12/Day12%20Python%20Solution.py)
+- [Day 13: To be updated](Day13/) - Dec 4th, 2023
+  - [Day 13 Question](Day13/Day13%20Question.md)
+  - [Day 13 Algorithm](Day13/Day13%20Algorithm.md)
+  - [Day 13 Solution](Day13/Day13%20Python%20Solution.py)
+- [Day 14: To be updated](Day14/) - Dec 5th, 2023
+  - [Day 14 Question](Day14/Day14%20Question.md)
+  - [Day 14 Algorithm](Day14/Day14%20Algorithm.md)
+  - [Day 14 Solution](Day14/Day14%20Python%20Solution.py)
+- [Day 15: To be updated](Day15/) - Dec 6th, 2023
+  - [Day 15 Question](Day15/Day15%20Question.md)
+  - [Day 15 Algorithm](Day15/Day15%20Algorithm.md)
+  - [Day 15 Solution](Day15/Day15%20Python%20Solution.py)
+- [Day 16: To be updated](Day16/) - Dec 7th, 2023
+  - [Day 16 Question](Day16/Day16%20Question.md)
+  - [Day 16 Algorithm](Day16/Day16%20Algorithm.md)
+  - [Day 16 Solution](Day16/Day16%20Python%20Solution.py)
+- [Day 17: To be updated](Day17/) - Dec 8th, 2023
+  - [Day 17 Question](Day17/Day17%20Question.md)
+  - [Day 17 Algorithm](Day17/Day17%20Algorithm.md)
+  - [Day 17 Solution](Day17/Day17%20Python%20Solution.py)
+- [Day 18: To be updated](Day18/) - Dec 9th, 2023
+  - [Day 18 Question](Day18/Day18%20Question.md)
+  - [Day 18 Algorithm](Day18/Day18%20Algorithm.md)
+  - [Day 18 Solution](Day18/Day18%20Python%20Solution.py)
+- [Day 19: To be updated](Day19/) - Dec 10th, 2023
+  - [Day 19 Question](Day19/Day19%20Question.md)
+  - [Day 19 Algorithm](Day19/Day19%20Algorithm.md)
+  - [Day 19 Solution](Day19/Day19%20Python%20Solution.py)
+- [Day 20: To be updated](Day20/) - Dec 11th, 2023
+  - [Day 20 Question](Day20/Day20%20Question.md)
+  - [Day 20 Algorithm](Day20/Day20%20Algorithm.md)
+  - [Day 20 Solution](Day20/Day20%20Python%20Solution.py)
+- [Day 21: To be updated](Day21/) - Dec 12th, 2023
+  - [Day 21 Question](Day21/Day21%20Question.md)
+  - [Day 21 Algorithm](Day21/Day21%20Algorithm.md)
+  - [Day 21 Solution](Day21/Day21%20Python%20Solution.py)
+- [Day 22: To be updated](Day22/) - Dec 13th, 2023
+  - [Day 22 Question](Day22/Day22%20Question.md)
+  - [Day 22 Algorithm](Day22/Day22%20Algorithm.md)
+  - [Day 22 Solution](Day22/Day22%20Python%20Solution.py)
+- [Day 23: To be updated](Day23/) - Dec 14th, 2023
+  - [Day 23 Question](Day23/Day23%20Question.md)
+  - [Day 23 Algorithm](Day23/Day23%20Algorithm.md)
+  - [Day 23 Solution](Day23/Day23%20Python%20Solution.py)
+- [Day 24: To be updated](Day24/) - Dec 15th, 2023
+  - [Day 24 Question](Day24/Day24%20Question.md)
+  - [Day 24 Algorithm](Day24/Day24%20Algorithm.md)
+  - [Day 24 Solution](Day24/Day24%20Python%20Solution.py)
+- [Day 25: To be updated](Day25/) - Dec 16th, 2023
+  - [Day 25 Question](Day25/Day25%20Question.md)
+  - [Day 25 Algorithm](Day25/Day25%20Algorithm.md)
+  - [Day 25 Solution](Day25/Day25%20Python%20Solution.py)
+- [Day 26: To be updated](Day26/) - Dec 17th, 2023
+  - [Day 26 Question](Day26/Day26%20Question.md)
+  - [Day 26 Algorithm](Day26/Day26%20Algorithm.md)
+  - [Day 26 Solution](Day26/Day26%20Python%20Solution.py)
+- [Day 27: To be updated](Day27/) - Dec 18th, 2023
+  - [Day 27 Question](Day27/Day27%20Question.md)
+  - [Day 27 Algorithm](Day27/Day27%20Algorithm.md)
+  - [Day 27 Solution](Day27/Day27%20Python%20Solution.py)
+- [Day 28: To be updated](Day28/) - Dec 19th, 2023
+  - [Day 28 Question](Day28/Day28%20Question.md)
+  - [Day 28 Algorithm](Day28/Day28%20Algorithm.md)
+  - [Day 28 Solution](Day28/Day28%20Python%20Solution.py)
+- [Day 29: To be updated](Day29/) - Dec 20th, 2023
+  - [Day 29 Question](Day29/Day29%20Question.md)
+  - [Day 29 Algorithm](Day29/Day29%20Algorithm.md)
+  - [Day 29 Solution](Day29/Day29%20Python%20Solution.py)
+- [Day 30: To be updated](Day30/) - Dec 21st, 2023
+  - [Day 30 Question](Day30/Day30%20Question.md)
+  - [Day 30 Algorithm](Day30/Day30%20Algorithm.md)
+  - [Day 30 Solution](Day30/Day30%20Python%20Solution.py)
+- [Day 31: To be updated](Day31/) - Dec 22nd, 2023
+  - [Day 31 Question](Day31/Day31%20Question.md)
+  - [Day 31 Algorithm](Day31/Day31%20Algorithm.md)
+  - [Day 31 Solution](Day31/Day31%20Python%20Solution.py)
+- [Day 32: To be updated](Day32/) - Dec 23rd, 2023
+  - [Day 32 Question](Day32/Day32%20Question.md)
+  - [Day 32 Algorithm](Day32/Day32%20Algorithm.md)
+  - [Day 32 Solution](Day32/Day32%20Python%20Solution.py)
+- [Day 33: To be updated](Day33/) - Dec 24th, 2023
+  - [Day 33 Question](Day33/Day33%20Question.md)
+  - [Day 33 Algorithm](Day33/Day33%20Algorithm.md)
+  - [Day 33 Solution](Day33/Day33%20Python%20Solution.py)
+- [Day 34: To be updated](Day34/) - Dec 25th, 2023
+  - [Day 34 Question](Day34/Day34%20Question.md)
+  - [Day 34 Algorithm](Day34/Day34%20Algorithm.md)
+  - [Day 34 Solution](Day34/Day34%20Python%20Solution.py)
+- [Day 35: To be updated](Day35/) - Dec 26th, 2023
+  - [Day 35 Question](Day35/Day35%20Question.md)
+  - [Day 35 Algorithm](Day35/Day35%20Algorithm.md)
+  - [Day 35 Solution](Day35/Day35%20Python%20Solution.py)
+- [Day 36: To be updated](Day36/) - Dec 27th, 2023
+  - [Day 36 Question](Day36/Day36%20Question.md)
+  - [Day 36 Algorithm](Day36/Day36%20Algorithm.md)
+  - [Day 36 Solution](Day36/Day36%20Python%20Solution.py)
+- [Day 37: To be updated](Day37/) - Dec 28th, 2023
+  - [Day 37 Question](Day37/Day37%20Question.md)
+  - [Day 37 Algorithm](Day37/Day37%20Algorithm.md)
+  - [Day 37 Solution](Day37/Day37%20Python%20Solution.py)
+- [Day 38: To be updated](Day38/) - Dec 29th, 2023
+  - [Day 38 Question](Day38/Day38%20Question.md)
+  - [Day 38 Algorithm](Day38/Day38%20Algorithm.md)
+  - [Day 38 Solution](Day38/Day38%20Python%20Solution.py)
+- [Day 39: To be updated](Day39/) - Dec 30th, 2023
+  - [Day 39 Question](Day39/Day39%20Question.md)
+  - [Day 39 Algorithm](Day39/Day39%20Algorithm.md)
+  - [Day 39 Solution](Day39/Day39%20Python%20Solution.py)
+- [Day 40: To be updated](Day40/) - Dec 31st, 2023
+  - [Day 40 Question](Day40/Day40%20Question.md)
+  - [Day 40 Algorithm](Day40/Day40%20Algorithm.md)
+  - [Day 40 Solution](Day40/Day40%20Python%20Solution.py)
+- [Day 41: To be updated](Day41/) - Jan 1st, 2024
+  - [Day 41 Question](Day41/Day41%20Question.md)
+  - [Day 41 Algorithm](Day41/Day41%20Algorithm.md)
+  - [Day 41 Solution](Day41/Day41%20Python%20Solution.py)
+- [Day 42: To be updated](Day42/) - Jan 2nd, 2024
+  - [Day 42 Question](Day42/Day42%20Question.md)
+  - [Day 42 Algorithm](Day42/Day42%20Algorithm.md)
+  - [Day 42 Solution](Day42/Day42%20Python%20Solution.py)
+- [Day 43: To be updated](Day43/) - Jan 3rd, 2024
+  - [Day 43 Question](Day43/Day43%20Question.md)
+  - [Day 43 Algorithm](Day43/Day43%20Algorithm.md)
+  - [Day 43 Solution](Day43/Day43%20Python%20Solution.py)
+- [Day 44: To be updated](Day44/) - Jan 4th, 2024
+  - [Day 44 Question](Day44/Day44%20Question.md)
+  - [Day 44 Algorithm](Day44/Day44%20Algorithm.md)
+  - [Day 44 Solution](Day44/Day44%20Python%20Solution.py)
+- [Day 45: To be updated](Day45/) - Jan 5th, 2024
+  - [Day 45 Question](Day45/Day45%20Question.md)
+  - [Day 45 Algorithm](Day45/Day45%20Algorithm.md)
+  - [Day 45 Solution](Day45/Day45%20Python%20Solution.py)
+- [Day 46: To be updated](Day46/) - Jan 6th, 2024
+  - [Day 46 Question](Day46/Day46%20Question.md)
+  - [Day 46 Algorithm](Day46/Day46%20Algorithm.md)
+  - [Day 46 Solution](Day46/Day46%20Python%20Solution.py)
+- [Day 47: To be updated](Day47/) - Jan 7th, 2024
+  - [Day 47 Question](Day47/Day47%20Question.md)
+  - [Day 47 Algorithm](Day47/Day47%20Algorithm.md)
+  - [Day 47 Solution](Day47/Day47%20Python%20Solution.py)
+- [Day 48: To be updated](Day48/) - Jan 8th, 2024
+  - [Day 48 Question](Day48/Day48%20Question.md)
+  - [Day 48 Algorithm](Day48/Day48%20Algorithm.md)
+  - [Day 48 Solution](Day48/Day48%20Python%20Solution.py)
+- [Day 49: To be updated](Day49/) - Jan 9th, 2024
+  - [Day 49 Question](Day49/Day49%20Question.md)
+  - [Day 49 Algorithm](Day49/Day49%20Algorithm.md)
+  - [Day 49 Solution](Day49/Day49%20Python%20Solution.py)
+- [Day 50: To be updated](Day50/) - Jan 10th, 2024
+  - [Day 50 Question](Day50/Day50%20Question.md)
+  - [Day 50 Algorithm](Day50/Day50%20Algorithm.md)
+  - [Day 50 Solution](Day50/Day50%20Python%20Solution.py)
+- [Day 51: To be updated](Day51/) - Jan 11th, 2024
+  - [Day 51 Question](Day51/Day51%20Question.md)
+  - [Day 51 Algorithm](Day51/Day51%20Algorithm.md)
+  - [Day 51 Solution](Day51/Day51%20Python%20Solution.py)
+- [Day 52: To be updated](Day52/) - Jan 12th, 2024
+  - [Day 52 Question](Day52/Day52%20Question.md)
+  - [Day 52 Algorithm](Day52/Day52%20Algorithm.md)
+  - [Day 52 Solution](Day52/Day52%20Python%20Solution.py)
+- [Day 53: To be updated](Day53/) - Jan 13th, 2024
+  - [Day 53 Question](Day53/Day53%20Question.md)
+  - [Day 53 Algorithm](Day53/Day53%20Algorithm.md)
+  - [Day 53 Solution](Day53/Day53%20Python%20Solution.py)
+- [Day 54: To be updated](Day54/) - Jan 14th, 2024
+  - [Day 54 Question](Day54/Day54%20Question.md)
+  - [Day 54 Algorithm](Day54/Day54%20Algorithm.md)
+  - [Day 54 Solution](Day54/Day54%20Python%20Solution.py)
+- [Day 55: To be updated](Day55/) - Jan 15th, 2024
+  - [Day 55 Question](Day55/Day55%20Question.md)
+  - [Day 55 Algorithm](Day55/Day55%20Algorithm.md)
+  - [Day 55 Solution](Day55/Day55%20Python%20Solution.py)
+- [Day 56: To be updated](Day56/) - Jan 16th, 2024
+  - [Day 56 Question](Day56/Day56%20Question.md)
+  - [Day 56 Algorithm](Day56/Day56%20Algorithm.md)
+  - [Day 56 Solution](Day56/Day56%20Python%20Solution.py)
+- [Day 57: To be updated](Day57/) - Jan 17th, 2024
+  - [Day 57 Question](Day57/Day57%20Question.md)
+  - [Day 57 Algorithm](Day57/Day57%20Algorithm.md)
+  - [Day 57 Solution](Day57/Day57%20Python%20Solution.py)
+- [Day 58: To be updated](Day58/) - Jan 18th, 2024
+  - [Day 58 Question](Day58/Day58%20Question.md)
+  - [Day 58 Algorithm](Day58/Day58%20Algorithm.md)
+  - [Day 58 Solution](Day58/Day58%20Python%20Solution.py)
+- [Day 59: To be updated](Day59/) - Jan 19th, 2024
+  - [Day 59 Question](Day59/Day59%20Question.md)
+  - [Day 59 Algorithm](Day59/Day59%20Algorithm.md)
+  - [Day 59 Solution](Day59/Day59%20Python%20Solution.py)
+- [Day 60: To be updated](Day60/) - Jan 20th, 2024
+  - [Day 60 Question](Day60/Day60%20Question.md)
+  - [Day 60 Algorithm](Day60/Day60%20Algorithm.md)
+  - [Day 60 Solution](Day60/Day60%20Python%20Solution.py)
+- [Day 61: To be updated](Day61/) - Jan 21st, 2024
+  - [Day 61 Question](Day61/Day61%20Question.md)
+  - [Day 61 Algorithm](Day61/Day61%20Algorithm.md)
+  - [Day 61 Solution](Day61/Day61%20Python%20Solution.py)
+- [Day 62: To be updated](Day62/) - Jan 22nd, 2024
+  - [Day 62 Question](Day62/Day62%20Question.md)
+  - [Day 62 Algorithm](Day62/Day62%20Algorithm.md)
+  - [Day 62 Solution](Day62/Day62%20Python%20Solution.py)
+- [Day 63: To be updated](Day63/) - Jan 23rd, 2024
+  - [Day 63 Question](Day63/Day63%20Question.md)
+  - [Day 63 Algorithm](Day63/Day63%20Algorithm.md)
+  - [Day 63 Solution](Day63/Day63%20Python%20Solution.py)
+- [Day 64: To be updated](Day64/) - Jan 24th, 2024
+  - [Day 64 Question](Day64/Day64%20Question.md)
+  - [Day 64 Algorithm](Day64/Day64%20Algorithm.md)
+  - [Day 64 Solution](Day64/Day64%20Python%20Solution.py)
+- [Day 65: To be updated](Day65/) - Jan 25th, 2024
+  - [Day 65 Question](Day65/Day65%20Question.md)
+  - [Day 65 Algorithm](Day65/Day65%20Algorithm.md)
+  - [Day 65 Solution](Day65/Day65%20Python%20Solution.py)
+- [Day 66: To be updated](Day66/) - Jan 26th, 2024
+  - [Day 66 Question](Day66/Day66%20Question.md)
+  - [Day 66 Algorithm](Day66/Day66%20Algorithm.md)
+  - [Day 66 Solution](Day66/Day66%20Python%20Solution.py)
+- [Day 67: To be updated](Day67/) - Jan 27th, 2024
+  - [Day 67 Question](Day67/Day67%20Question.md)
+  - [Day 67 Algorithm](Day67/Day67%20Algorithm.md)
+  - [Day 67 Solution](Day67/Day67%20Python%20Solution.py)
+- [Day 68: To be updated](Day68/) - Jan 28th, 2024
+  - [Day 68 Question](Day68/Day68%20Question.md)
+  - [Day 68 Algorithm](Day68/Day68%20Algorithm.md)
+  - [Day 68 Solution](Day68/Day68%20Python%20Solution.py)
+- [Day 69: To be updated](Day69/) - Jan 29th, 2024
+  - [Day 69 Question](Day69/Day69%20Question.md)
+  - [Day 69 Algorithm](Day69/Day69%20Algorithm.md)
+  - [Day 69 Solution](Day69/Day69%20Python%20Solution.py)
+- [Day 70: To be updated](Day70/) - Jan 30th, 2024
+  - [Day 70 Question](Day70/Day70%20Question.md)
+  - [Day 70 Algorithm](Day70/Day70%20Algorithm.md)
+  - [Day 70 Solution](Day70/Day70%20Python%20Solution.py)
+- [Day 71: To be updated](Day71/) - Jan 31st, 2024
+  - [Day 71 Question](Day71/Day71%20Question.md)
+  - [Day 71 Algorithm](Day71/Day71%20Algorithm.md)
+  - [Day 71 Solution](Day71/Day71%20Python%20Solution.py)
+- [Day 72: To be updated](Day72/) - Feb 1st, 2024
+  - [Day 72 Question](Day72/Day72%20Question.md)
+  - [Day 72 Algorithm](Day72/Day72%20Algorithm.md)
+  - [Day 72 Solution](Day72/Day72%20Python%20Solution.py)
+- [Day 73: To be updated](Day73/) - Feb 2nd, 2024
+  - [Day 73 Question](Day73/Day73%20Question.md)
+  - [Day 73 Algorithm](Day73/Day73%20Algorithm.md)
+  - [Day 73 Solution](Day73/Day73%20Python%20Solution.py)
+- [Day 74: To be updated](Day74/) - Feb 3rd, 2024
+  - [Day 74 Question](Day74/Day74%20Question.md)
+  - [Day 74 Algorithm](Day74/Day74%20Algorithm.md)
+  - [Day 74 Solution](Day74/Day74%20Python%20Solution.py)
+- [Day 75: To be updated](Day75/) - Feb 4th, 2024
+  - [Day 75 Question](Day75/Day75%20Question.md)
+  - [Day 75 Algorithm](Day75/Day75%20Algorithm.md)
+  - [Day 75 Solution](Day75/Day75%20Python%20Solution.py)
+- [Day 76: To be updated](Day76/) - Feb 5th, 2024
+  - [Day 76 Question](Day76/Day76%20Question.md)
+  - [Day 76 Algorithm](Day76/Day76%20Algorithm.md)
+  - [Day 76 Solution](Day76/Day76%20Python%20Solution.py)
+- [Day 77: To be updated](Day77/) - Feb 6th, 2024
+  - [Day 77 Question](Day77/Day77%20Question.md)
+  - [Day 77 Algorithm](Day77/Day77%20Algorithm.md)
+  - [Day 77 Solution](Day77/Day77%20Python%20Solution.py)
+- [Day 78: To be updated](Day78/) - Feb 7th, 2024
+  - [Day 78 Question](Day78/Day78%20Question.md)
+  - [Day 78 Algorithm](Day78/Day78%20Algorithm.md)
+  - [Day 78 Solution](Day78/Day78%20Python%20Solution.py)
+- [Day 79: To be updated](Day79/) - Feb 8th, 2024
+  - [Day 79 Question](Day79/Day79%20Question.md)
+  - [Day 79 Algorithm](Day79/Day79%20Algorithm.md)
+  - [Day 79 Solution](Day79/Day79%20Python%20Solution.py)
+- [Day 80: To be updated](Day80/) - Feb 9th, 2024
+  - [Day 80 Question](Day80/Day80%20Question.md)
+  - [Day 80 Algorithm](Day80/Day80%20Algorithm.md)
+  - [Day 80 Solution](Day80/Day80%20Python%20Solution.py)
+- [Day 81: To be updated](Day81/) - Feb 10th, 2024
+  - [Day 81 Question](Day81/Day81%20Question.md)
+  - [Day 81 Algorithm](Day81/Day81%20Algorithm.md)
+  - [Day 81 Solution](Day81/Day81%20Python%20Solution.py)
+- [Day 82: To be updated](Day82/) - Feb 11th, 2024
+  - [Day 82 Question](Day82/Day82%20Question.md)
+  - [Day 82 Algorithm](Day82/Day82%20Algorithm.md)
+  - [Day 82 Solution](Day82/Day82%20Python%20Solution.py)
+- [Day 83: To be updated](Day83/) - Feb 12th, 2024
+  - [Day 83 Question](Day83/Day83%20Question.md)
+  - [Day 83 Algorithm](Day83/Day83%20Algorithm.md)
+  - [Day 83 Solution](Day83/Day83%20Python%20Solution.py)
+- [Day 84: To be updated](Day84/) - Feb 13th, 2024
+  - [Day 84 Question](Day84/Day84%20Question.md)
+  - [Day 84 Algorithm](Day84/Day84%20Algorithm.md)
+  - [Day 84 Solution](Day84/Day84%20Python%20Solution.py)
+- [Day 85: To be updated](Day85/) - Feb 14th, 2024
+  - [Day 85 Question](Day85/Day85%20Question.md)
+  - [Day 85 Algorithm](Day85/Day85%20Algorithm.md)
+  - [Day 85 Solution](Day85/Day85%20Python%20Solution.py)
+- [Day 86: To be updated](Day86/) - Feb 15th, 2024
+  - [Day 86 Question](Day86/Day86%20Question.md)
+  - [Day 86 Algorithm](Day86/Day86%20Algorithm.md)
+  - [Day 86 Solution](Day86/Day86%20Python%20Solution.py)
+- [Day 87: To be updated](Day87/) - Feb 16th, 2024
+  - [Day 87 Question](Day87/Day87%20Question.md)
+  - [Day 87 Algorithm](Day87/Day87%20Algorithm.md)
+  - [Day 87 Solution](Day87/Day87%20Python%20Solution.py)
+- [Day 88: To be updated](Day88/) - Feb 17th, 2024
+  - [Day 88 Question](Day88/Day88%20Question.md)
+  - [Day 88 Algorithm](Day88/Day88%20Algorithm.md)
+  - [Day 88 Solution](Day88/Day88%20Python%20Solution.py)
+- [Day 89: To be updated](Day89/) - Feb 18th, 2024
+  - [Day 89 Question](Day89/Day89%20Question.md)
+  - [Day 89 Algorithm](Day89/Day89%20Algorithm.md)
+  - [Day 89 Solution](Day89/Day89%20Python%20Solution.py)
+- [Day 90: To be updated](Day90/) - Feb 19th, 2024
+  - [Day 90 Question](Day90/Day90%20Question.md)
+  - [Day 90 Algorithm](Day90/Day90%20Algorithm.md)
+  - [Day 90 Solution](Day90/Day90%20Python%20Solution.py)
+- [Day 91: To be updated](Day91/) - Feb 20th, 2024
+  - [Day 91 Question](Day91/Day91%20Question.md)
+  - [Day 91 Algorithm](Day91/Day91%20Algorithm.md)
+  - [Day 91 Solution](Day91/Day91%20Python%20Solution.py)
+- [Day 92: To be updated](Day92/) - Feb 21st, 2024
+  - [Day 92 Question](Day92/Day92%20Question.md)
+  - [Day 92 Algorithm](Day92/Day92%20Algorithm.md)
+  - [Day 92 Solution](Day92/Day92%20Python%20Solution.py)
+- [Day 93: To be updated](Day93/) - Feb 22nd, 2024
+  - [Day 93 Question](Day93/Day93%20Question.md)
+  - [Day 93 Algorithm](Day93/Day93%20Algorithm.md)
+  - [Day 93 Solution](Day93/Day93%20Python%20Solution.py)
+- [Day 94: To be updated](Day94/) - Feb 23rd, 2024
+  - [Day 94 Question](Day94/Day94%20Question.md)
+  - [Day 94 Algorithm](Day94/Day94%20Algorithm.md)
+  - [Day 94 Solution](Day94/Day94%20Python%20Solution.py)
+- [Day 95: To be updated](Day95/) - Feb 24th, 2024
+  - [Day 95 Question](Day95/Day95%20Question.md)
+  - [Day 95 Algorithm](Day95/Day95%20Algorithm.md)
+  - [Day 95 Solution](Day95/Day95%20Python%20Solution.py)
+- [Day 96: To be updated](Day96/) - Feb 25th, 2024
+  - [Day 96 Question](Day96/Day96%20Question.md)
+  - [Day 96 Algorithm](Day96/Day96%20Algorithm.md)
+  - [Day 96 Solution](Day96/Day96%20Python%20Solution.py)
+- [Day 97: To be updated](Day97/) - Feb 26th, 2024
+  - [Day 97 Question](Day97/Day97%20Question.md)
+  - [Day 97 Algorithm](Day97/Day97%20Algorithm.md)
+  - [Day 97 Solution](Day97/Day97%20Python%20Solution.py)
+- [Day 98: To be updated](Day98/) - Feb 27th, 2024
+  - [Day 98 Question](Day98/Day98%20Question.md)
+  - [Day 98 Algorithm](Day98/Day98%20Algorithm.md)
+  - [Day 98 Solution](Day98/Day98%20Python%20Solution.py)
+- [Day 99: To be updated](Day99/) - Feb 28th, 2024
+  - [Day 99 Question](Day99/Day99%20Question.md)
+  - [Day 99 Algorithm](Day99/Day99%20Algorithm.md)
+  - [Day 99 Solution](Day99/Day99%20Python%20Solution.py)
+- [Day 100: To be updated](Day100/) - Feb 29th, 2024
+  - [Day 100 Question](Day100/Day100%20Question.md)
+  - [Day 100 Algorithm](Day100/Day100%20Algorithm.md)
+  - [Day 100 Solution](Day100/Day100%20Python%20Solution.py)
+
 
 ## Getting Started 🚀
 
