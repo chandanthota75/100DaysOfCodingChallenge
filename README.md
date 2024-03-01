@@ -1,8 +1,8 @@
-# 100 Days of Code Challenge - GeekforGeeks 🎉
+# 101 Days of Code Challenge - GeekforGeeks 🎉
 
-Welcome to my 100 Days of Code Challenge journey with GeekforGeeks! 🚀
+Welcome to my 101 Days of Code Challenge journey with GeekforGeeks! 🚀
 
-This repository contains my solutions to the daily coding challenges from GeekforGeeks, completed during the 100 Days of Code Challenge from November 22nd, 2023 to February 29th, 2024.
+This repository contains my solutions to the daily coding challenges from GeekforGeeks, completed during the 101 Days of Code Challenge from November 22nd, 2023 to March 1st, 2024.
 
 During this challenge, I completed coding exercises and problems provided by GeekforGeeks on a daily basis. The solutions are written in Python programming language.
 
