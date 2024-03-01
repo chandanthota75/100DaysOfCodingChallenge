@@ -516,6 +516,11 @@ The repository is organized into folders for each day of the challenge. Each fol
   - [Day 100 Question](Day100/Day100%20Question.md)
   - [Day 100 Algorithm](Day100/Day100%20Algorithm.md)
   - [Day 100 Solution](Day100/Day100%20Solution.py)
+- [Day 101: Peak element](Day101/) - Mar 1st, 2024
+  - 
+  - [Day 101 Question](Day101/Day101%20Question.md)
+  - [Day 101 Algorithm](Day101/Day101%20Algorithm.md)
+  - [Day 101 Solution](Day101/Day101%20Solution.py)
 
 
 ## Getting Started 🚀
