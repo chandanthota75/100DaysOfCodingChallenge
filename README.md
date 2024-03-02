@@ -1,8 +1,8 @@
-# 101 Days of Code Challenge - GeekforGeeks 🎉
+# 102 Days of Code Challenge - GeekforGeeks 🎉
 
-Welcome to my 101 Days of Code Challenge journey with GeekforGeeks! 🚀
+Welcome to my 102 Days of Code Challenge journey with GeekforGeeks! 🚀
 
-This repository contains my solutions to the daily coding challenges from GeekforGeeks, completed during the 101 Days of Code Challenge from November 22nd, 2023 to March 1st, 2024.
+This repository contains my solutions to the daily coding challenges from GeekforGeeks, completed during the 102 Days of Code Challenge from November 22nd, 2023 to March 2nd, 2024.
 
 During this challenge, I completed coding exercises and problems provided by GeekforGeeks on a daily basis. The solutions are written in Python programming language.
 
@@ -521,6 +521,11 @@ The repository is organized into folders for each day of the challenge. Each fol
   - [Day 101 Question](Day101/Day101%20Question.md)
   - [Day 101 Algorithm](Day101/Day101%20Algorithm.md)
   - [Day 101 Solution](Day101/Day101%20Solution.py)
+- [Day 102: First element to occur k times](Day102/) - Mar 2nd, 2024
+  - 
+  - [Day 102 Question](Day102/Day102%20Question.md)
+  - [Day 102 Algorithm](Day102/Day102%20Algorithm.md)
+  - [Day 102 Solution](Day102/Day102%20Solution.py)
 
 
 ## Getting Started 🚀
