@@ -1,37 +1,21 @@
-# Day 102 **First element to occur k times**
+# Algorithm for Day 102 **First element to occur k times**
 
-Given an array of `n` integers, find the first element that occurs at least `k` times.
+1. **Define a class Solution**:
+   - Initialize the class with a method `firstElementKTime()` which takes the integer `n`, integer `k`, and the array `a` as input parameters.
 
-### Example 1:
-**Input:**  
-n = 7
-k = 2
-a[] = {1, 7, 4, 3, 4, 8, 7}
+2. **firstElementKTime() Method**:
+   - Input: `n` (size of the array), `k` (minimum number of occurrences), `a` (list of integers)
+   - Output: The first element that occurs at least `k` times, or -1 if not found.
 
-**Output:**  
-4  
-**Explanation:**  
-Both 7 and 4 occur 2 times. But 4 is the first that occurs twice.  
-At index = 4, 4 has occurred twice whereas 7 appeared twice at index 6.
+3. Initialize an empty dictionary `d` to store the occurrences of elements.
 
-### Example 2:
+4. Iterate through each element `i` in the array `a`:
+   - If `i` is already a key in the dictionary `d`, increment its value by 1.
+   - If `i` is not present in the dictionary `d`, set its value to 1.
 
-**Input:**  
-n = 10, k = 3
-a[] = {3, 1, 3, 4, 5, 1, 3, 3, 5, 4}
+5. Check if the value of `d[i]` (number of occurrences of element `i`) is greater than or equal to `k`:
+   - If true, return `i` as it is the first element occurring at least `k` times.
 
-**Output:**  
-3  
-**Explanation:**  
-Here, 3 is the only number that appeared 3 times in the array.
+6. If no such element is found after iterating through the array, return -1.
 
-### Your Task:
-You don't need to read input or print anything. Your task is to complete the function `firstElementKTime()` which takes the array `a[]`, its size `n`, and an integer `k` as input arguments and returns the required answer. If the answer is not present in the array, return -1.
-
-**Expected Time Complexity:** O(n).  
-**Expected Auxiliary Space:** O(n).
-
-### Constraints:
-- 1 <= n <= 10^4
-- 1 <= k <= 100
-- 1 <= a[i] <= 200
+7. **End of the Algorithm**.
